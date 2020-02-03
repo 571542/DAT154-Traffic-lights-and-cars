@@ -1,0 +1,16 @@
+﻿  Traffic.cpp
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(362,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(362,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(373,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(373,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(373,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(373,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(384,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(384,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(384,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(384,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(395,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(395,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(395,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Traffic\Traffic.cpp(395,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Traffic.vcxproj -> C:\Users\joste\DAT154-Traffic-lights-and-cars\Traffic\Debug\Traffic.exe
